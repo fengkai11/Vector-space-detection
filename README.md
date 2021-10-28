@@ -13,7 +13,7 @@ the architectue of network used in FSD.This is the detection part to verify my d
 The crucial problem is how convert image space to vector space, Andrej Karpathy has introduced the technology of transformer,but no details of the pipline. In this repository 
 I am trying to verify this part.  
 
-The blogs about AI day can be reference:  
+The blogs about AI day can be refered:  
 [1.Deep Understanding Tesla FSD,Jason Zhang](https://saneryee-studio.medium.com/deep-understanding-tesla-fsd-part-1-hydranet-1b46106d57)    
 [2.Tesla AutoPilot 纯视觉方案解析](https://zhuanlan.zhihu.com/p/404916271)
 
