@@ -22,4 +22,5 @@ The blogs about AI day can be refered:
 - [ ] 2. prepare kitti dataset and dataloader;
 - [ ] 3. train the newwork;
 - [ ] 4. writre the tracker part;
+- [ ] 5. share backbone add task trunk；
 
