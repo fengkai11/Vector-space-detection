@@ -17,3 +17,9 @@ The blogs about AI day can be refered:
 [1.Deep Understanding Tesla FSD,Jason Zhang](https://saneryee-studio.medium.com/deep-understanding-tesla-fsd-part-1-hydranet-1b46106d57)    
 [2.Tesla AutoPilot 纯视觉方案解析](https://zhuanlan.zhihu.com/p/404916271)
 
+**TODO list**  
+- [ ] 1. build network;
+- [ ] 2. prepare kitti dataset and dataloader;
+- [ ] 3. train the newwork;
+- [ ] 4. writre the tracker part;
+
