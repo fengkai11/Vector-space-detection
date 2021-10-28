@@ -10,7 +10,7 @@ the architectue of network used in FSD.This is the detection part to verify my d
 - yolo style
 - bird veiw  
 
-The crucial problem is how convert image space to vector space, Andrej Karpathy has introduced the technology of transformer,but no details of the pipline. In this repository 
+The crucial problem is how to convert image space to vector space, Andrej Karpathy has introduced the technology of transformer,but no details of the pipline. In this repository 
 I am trying to verify this part.  
 
 The blogs about AI day can be refered:  
